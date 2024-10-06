@@ -240,7 +240,7 @@ Compared to ChatGPT Response:
 
 - Clearly our model with the Gale Encylopedia offers key inferences we wouldn't have gotten from general LLM models like ChatGPT
 
-- Further we also handled cases where the query and the results got from the vector DB would result in getting an output such as I'm sorry, I'm not sure about that
+- Further we also handled cases where the query and the results got from the vector DB are not relevant.
 
 ### Flask Application Development:
 
